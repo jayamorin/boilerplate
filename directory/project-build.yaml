@@ -1,0 +1,10 @@
+---
+project_name: service-abc
+build_version: 1
+services:
+  - location: services/service-a
+    type: docker
+  - location: services/service-b
+    type: docker
+  - location: services/service-c
+    type: docker

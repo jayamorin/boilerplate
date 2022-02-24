@@ -1,2 +1,2 @@
-# boilerplate
-Repository template
+# boilerplates
+Collection of boilerplates and templates

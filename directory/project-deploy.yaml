@@ -1,0 +1,16 @@
+---
+project_name: service-abc
+deploy_version: 1
+environments:
+  - name: dev
+    services:
+      - name: service-a
+        version: 1.0.1
+  - name: test
+    services:
+      - name: service-b
+        version: 1.0.1
+  - name: prod
+    services:
+      - name: service-c
+        version: 1.0.1
